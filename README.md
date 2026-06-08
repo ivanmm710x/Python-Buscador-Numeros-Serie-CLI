@@ -1,8 +1,8 @@
-# 🔍 Buscador Automático de Patrones (File System Scanner)
+# Buscador Automático de Patrones (File System Scanner)
 
 Aplicación de terminal (CLI) desarrollada en Python diseñada para automatizar el análisis masivo de archivos de texto dentro de estructuras de carpetas anidadas. El script rastrea el sistema de archivos local y extrae información específica (números de serie) que coincida con un patrón predefinido, ignorando el "ruido" o texto basura.
 
-## 🧰 Inventario de Habilidades Técnicas Aplicadas
+## Inventario de Habilidades Técnicas Aplicadas
 
 Este proyecto simula un entorno real de extracción de datos, poniendo a prueba el rendimiento de lectura de disco (I/O) y el procesamiento de cadenas. No utiliza librerías de terceros, apoyándose 100% en la biblioteca estándar de Python:
 
